@@ -21,7 +21,7 @@ Current status
 The following scripts, Javascript with jsx extension, are available:
 
 * After Effects - transitions
-* Photoshop
+* Photoshop (from http://qt.gitorious.org/qt-labs/photoshop-qmlexporter, where no changes since 16th Dec 2010)
 
 It would be nice to have the following:
 
