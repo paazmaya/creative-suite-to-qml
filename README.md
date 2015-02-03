@@ -1,6 +1,6 @@
 # CS2QML - Adobe Creative Suite to Nokia QML
 
-[![Analytics](https://ga-beacon.appspot.com/UA-2643697-15/creative-suite-to-qml/index)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-2643697-15/creative-suite-to-qml/index?flat)](https://github.com/igrigorik/ga-beacon)
 
 Scripts for exporting things from different Adobe Creative Suite programs to Qt Quick prototypes.
 
