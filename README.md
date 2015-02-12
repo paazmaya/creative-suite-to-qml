@@ -1,11 +1,11 @@
-# CS2QML - Adobe Creative Suite to Nokia QML
+# CS2QML - Adobe Creative Suite to Qt QML
 
 [![Analytics](https://ga-beacon.appspot.com/UA-2643697-15/creative-suite-to-qml/index?flat)](https://github.com/igrigorik/ga-beacon)
 
 Scripts for exporting things from different Adobe Creative Suite programs to Qt Quick prototypes.
 
 * Adobe Creative Suite http://www.adobe.com/products/creativesuite.html
-* Qt Project http://qt-project.org/
+* Qt Project http://qt.io/
 
 ## How come?
 
@@ -16,6 +16,16 @@ Most of the time these would more properly communicated via working prototype th
 like the final product. This is where QML comes along.
 
 The scripts collected to this repository are to be used in this work flow.
+
+## Before getting started
+
+Please note that recent versions of Adobe tools, such as After Effects for example,
+require to change certain settings in order to allow scripts such as found in this project,
+to write any files. The given setting can be found from:
+
+```
+Preferences > General > Allow scripts to write to files and access network
+```
 
 ## Status
 
