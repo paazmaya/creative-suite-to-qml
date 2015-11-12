@@ -39,3 +39,7 @@ It would be nice to have the following:
 * Illustrator
 * Flash Catalyst
 * InDesign
+
+## License
+
+Copyright (c) [Juga Paazmaya <paazmaya@yahoo.com>](http://paazmaya.fi)
